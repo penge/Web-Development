@@ -1,0 +1,34 @@
+# Ruby
+
+- variables (defined?, local, global, instance, class, constant)
+- data types (Integer, String, Array, Hash, Range, Symbol)
+- operators (arithmetic, comparison {spaceship}, assignment, bitwise, logical, ternary, range)
+- conditionals (if, else, elsif, unless, case)
+- loops (while, until, break, next)
+- methods (arity, splat)
+- structs
+- classes and objects (initialize, methods - public, private, protected)
+- modules (include, extend, prepend)
+- exceptions and errors (rescue, else, ensure, raise, retry)
+- blocks (block_given?, yield, block to proc, proc to block)
+- callable objects (methods, procs, lambdas)
+- procs, lambdas
+- closures
+- open classes
+- method wrappers (alias_method, refinements, prepend)
+- blank slate, clean room
+- class macros
+- scope gates (class, module, def)
+- flat scope
+- dynamic class, dynamic method, dynamic dispatch (#send)
+- singleton methods, singleton classes
+- self, method lookup, object model
+- method hooks (inherited, included, prepended, extended, ...)
+- respond, missing (#respond_to?, #respond_to_missing?, #method_missing, #const_missing)
+- remove methods (#undef_method, #remove_method)
+- unbound methods (#method, #unbind, #instance_method, #bind, #define_method)
+- $SAFE (#taint, #tainted?, #untaint)
+- binding (#binding)
+- eval ({instance|module|class}_{eval|exec})
+- regular expressions (=~ operator, #match)
+- threads (Mutex)

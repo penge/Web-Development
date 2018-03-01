@@ -1,0 +1,5 @@
+# Rails
+
+- Models
+- Controllers
+- Views
